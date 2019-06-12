@@ -13,3 +13,7 @@ Some new stuff here
 ## Support
 
 More stuff
+
+## Troubleshoot
+
+Some issues
