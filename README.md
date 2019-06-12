@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Some new stuff here
+
+## Support
+
+More stuff
