@@ -25,3 +25,7 @@ Contact info
 ## Add
 
 Some adds
+
+### Copyright
+
+Some CR
