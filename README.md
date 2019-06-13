@@ -17,3 +17,11 @@ More stuff
 ## Troubleshoot
 
 Some issues
+
+## Contact
+
+Contact info
+
+## Add
+
+Some adds
