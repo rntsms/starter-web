@@ -1,3 +1,4 @@
 MyFile.ext
 *.ext
 my-folder/
+*.orig
