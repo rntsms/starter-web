@@ -5,6 +5,7 @@ Adding a line for rebasing example
 more changes from myfeature branch
 
 bbbbbbbbbbbbbbb
+EMERGENGY FIX AFTER THE STASH
 
 ## Purpose
 
